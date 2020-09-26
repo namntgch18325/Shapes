@@ -1,0 +1,11 @@
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+G:\Advantages OOP\BaiTap260920200\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
